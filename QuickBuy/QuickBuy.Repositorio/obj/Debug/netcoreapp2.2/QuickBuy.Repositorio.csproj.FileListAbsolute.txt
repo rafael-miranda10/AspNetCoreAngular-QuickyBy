@@ -1,0 +1,12 @@
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.2\QuickBuy.Repositorio.deps.json
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.2\QuickBuy.Repositorio.dll
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.2\QuickBuy.Repositorio.pdb
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.dll
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.pdb
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.csprojAssemblyReference.cache
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.csproj.CoreCompileInputs.cache
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.AssemblyInfoInputs.cache
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.AssemblyInfo.cs
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.csproj.CopyComplete
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.dll
+E:\Portifolio\Curso AspNetCore Angular\AspNetCoreAngular-QuickyBy\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.2\QuickBuy.Repositorio.pdb
